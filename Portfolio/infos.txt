@@ -1,0 +1,4 @@
+Theme: Green and white 
+color-primary: rgb(52, 214, 12)
+color-primary-dark: rgb(43, 184, 8)
+color-primary-light: rgb(53, 232, 8)
